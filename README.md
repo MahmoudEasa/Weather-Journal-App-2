@@ -1,5 +1,3 @@
-My Name Is: Mahmoud Easa
-
 # Weather-Journal App Project
 
 ## Overview
